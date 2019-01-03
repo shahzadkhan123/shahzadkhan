@@ -1,2 +1,2 @@
-# shahzadkhan.github.io
-my portfolio
+# waqarirshad
+my personal website
